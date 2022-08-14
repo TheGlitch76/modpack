@@ -1,0 +1,13 @@
+name = "modpack"
+author = "Glitch"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "51788757216dc5f0704ce277efd1a50b2c1fdb051edc7d7ea26abdc5ca1cb0bb"
+
+[versions]
+minecraft = "1.18.2"
+quilt = "0.17.2-beta.2"
