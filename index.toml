@@ -95,6 +95,11 @@ hash = "7a316a592fc9ebcaec8f2af6c9a8a282d2478d049391d77099cb66c016ecdcc8"
 metafile = true
 
 [[files]]
+file = "mods/chunk-pregenerator-fabric.pw.toml"
+hash = "e1f0e7d40db8f24f53c3342e270d103d25c1b8b5d96f7448655f571487ca03c2"
+metafile = true
+
+[[files]]
 file = "mods/clear-skies.pw.toml"
 hash = "f017a0ff2c17072d79326247d3ba4bfb62ce49dbe445ffdcafb474f6818bf223"
 metafile = true
