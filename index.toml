@@ -355,11 +355,6 @@ hash = "08b91d64595d30ae8d99da996701f53c029a53333fec70d5dbba0cd8b31dcd31"
 metafile = true
 
 [[files]]
-file = "mods/resounding.pw.toml"
-hash = "13b16f7fb9575ff396888d2419bcd3c32a1f0460cedb2565b893e721f0f811fd"
-metafile = true
-
-[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "8cee882d886709a92b1c2ba19e6c5d1a55da9cc6ed79b78d62eec98b5b768588"
 metafile = true
