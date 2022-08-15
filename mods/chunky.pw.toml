@@ -1,6 +1,6 @@
 name = "Chunky Pregenerator"
 filename = "Chunky-1.2.164.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/fALzjamp/versions/1.2.164/Chunky-1.2.164.jar"
