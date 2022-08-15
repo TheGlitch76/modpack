@@ -95,11 +95,6 @@ hash = "7a316a592fc9ebcaec8f2af6c9a8a282d2478d049391d77099cb66c016ecdcc8"
 metafile = true
 
 [[files]]
-file = "mods/chunky.pw.toml"
-hash = "28bb1d5f48456c9c78599e37c8c52e2a87fd30ef90bb7fcb1db24a6abd40d697"
-metafile = true
-
-[[files]]
 file = "mods/clear-skies.pw.toml"
 hash = "f017a0ff2c17072d79326247d3ba4bfb62ce49dbe445ffdcafb474f6818bf223"
 metafile = true
