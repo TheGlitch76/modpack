@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fallingtree.json"
+hash = "d6f3c83cacc5364a17eedfbcd98c269126d6c8d560d080c148e13c4fdbed4b65"
+
+[[files]]
 file = "config/inspecio.json"
 hash = "147de463fd1629c0e5d72efa204f2e152c4534d67e1c696348c8023196e4fc90"
+
+[[files]]
+file = "config/spiceoffabric.hjson"
+hash = "0a1f00bdc23f6b6173c7a2b52bfcb624fd381a1a36c5114b5c4fece61000280a"
 
 [[files]]
 file = "mods/adorn.pw.toml"
