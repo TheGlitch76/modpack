@@ -10,7 +10,7 @@ hash = "147de463fd1629c0e5d72efa204f2e152c4534d67e1c696348c8023196e4fc90"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
-hash = "0a1f00bdc23f6b6173c7a2b52bfcb624fd381a1a36c5114b5c4fece61000280a"
+hash = "45e25bb314b0f9de3f5c86c1613cebebf8222f51a2ce04fb69e9318370036361"
 
 [[files]]
 file = "mods/adorn.pw.toml"

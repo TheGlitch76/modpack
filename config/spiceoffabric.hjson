@@ -36,7 +36,7 @@
 		// Expression that determines the food level to restore when eating a food item
 		// default: hungerValue * 0.7 ^ timesEaten
 		// 	Must be a valid expression
-		hunger: hungerValue * 0.7 ^ timesEaten
+		hunger: hungerValue * min(1, 0.76^(timesEaten-4))
 		// Expression that determines the saturation modifier for a food item
 		// default: saturationValue
 		// 	Must be a valid expression
@@ -60,12 +60,12 @@
 		// Default health in vanilla is 20 but that may change through mods like Origins.
 		// The resulting value will be floored before use.
 		// default: (0.6 * baseHealth) + max(2 * log2(uniqueFoodsEaten), 0)
-		health-formula: (0.6 * baseHealth) + max(2 * log2(uniqueFoodsEaten), 0)
+		health-formula: (0.6 * baseHealth) + 0.35 * uniqueFoodsEaten
 		// Specifies the maximum number of health points (half hearts) a player can get to through carrot mode.
 		// When 0, carrot mode is effectively disabled. (Why would you do this? :P)
 		// When -1, you can gain a basically infinite amount of hearts.
 		// default: -1
 		// 	Must be inclusively between -1 and 200
-		max-health: -1
+		max-health: 60
 	}
 }
