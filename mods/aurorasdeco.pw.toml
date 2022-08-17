@@ -3,4 +3,6 @@ filename = "aurorasdecorations-1.0.0+1.18.jar"
 side = "both"
 
 [download]
-
+url = "https://github.com/TheGlitch76/modpack/blob/trunk/sorry-aurora/aurorasdecorations-1.0.0+1.18.jar?raw=true"
+hash-format = "sha1"
+hash = "53f151865eaa2aa4c506ab6e1a2e81fadcd9ecd9"
