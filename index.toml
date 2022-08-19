@@ -374,6 +374,11 @@ hash = "08b91d64595d30ae8d99da996701f53c029a53333fec70d5dbba0cd8b31dcd31"
 metafile = true
 
 [[files]]
+file = "mods/resounding.pw.toml"
+hash = "c537808775d23b10bab57f859614e3b17a40796b0b2f08ce6729e5a192b5496e"
+metafile = true
+
+[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "8cee882d886709a92b1c2ba19e6c5d1a55da9cc6ed79b78d62eec98b5b768588"
 metafile = true
@@ -391,11 +396,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
-metafile = true
-
-[[files]]
-file = "mods/spice-of-fabric.pw.toml"
-hash = "09e1fbd26ef5fb0fe4bc996080398ec8a84ca89dbaf61daaa0eb1969c6aef1d0"
 metafile = true
 
 [[files]]
