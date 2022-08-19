@@ -89,6 +89,11 @@ hash = "c2dc3701c79aad2fa278359d47c32d4e4a10c349b0fc06e8b7400dec9b48700c"
 metafile = true
 
 [[files]]
+file = "mods/calio.pw.toml"
+hash = "1a1e97c2ae4b614ebc32c282e930d9397f8616ab9f7e7a8b78e51e46447408a2"
+metafile = true
+
+[[files]]
 file = "mods/campanion.pw.toml"
 hash = "8d3de765ffa83b0499e328dbd1827e35c2a9f88c11cdc09ba1f4efe7d68f531f"
 metafile = true

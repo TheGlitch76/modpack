@@ -1,0 +1,9 @@
+name = "Calio"
+filename="Calio-1.18.2-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/1009481327361396827/1010000963760836608/Calio-1.18.2-1.6.0.jar"
+hash-format = "sha1"
+hash = "4b70b5bb8a9ccd9547d747d9b9feaaa146ad63ba"
+
