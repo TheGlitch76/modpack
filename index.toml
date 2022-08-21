@@ -40,12 +40,12 @@ metafile = true
 
 [[files]]
 file = "mods/aurorasdeco.pw.toml"
-hash = "8b0142d8b12e8a77d6261debc9dfd474b843bbe26a6eb595e2fb09c541fdf805"
+hash = "1e63d163742804f927d628d72bee98575ff1436729c3f04b3418ea3f6fcaa449"
 metafile = true
 
 [[files]]
 file = "mods/automobility.pw.toml"
-hash = "998dbeabd9cbca8a1d2fa3268d8817f47b33925a5b7b46051bdf75f063c8ffcc"
+hash = "f289bc692546a62e43cefec49c760fcf7ed6fe2a0e42181d04b61afdbd8c02f4"
 metafile = true
 
 [[files]]
@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "c2dc3701c79aad2fa278359d47c32d4e4a10c349b0fc06e8b7400dec9b48700c"
+hash = "37a75aa36e869ed6aeac736e5718e2e43c3381f16707ac1fdaab8a2b7c3da9c8"
 metafile = true
 
 [[files]]
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "3d4ba46c70a76eca05a4ad3f5a3d4a260c44f8b7de51e8bf3acb0b3156470ac3"
+hash = "b7f0775dd43c1f867f3311a0978ef81a482d74365bff7df5c40cc05514713d8d"
 metafile = true
 
 [[files]]
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "e74e05433e515a7ee7c90301d19010db9f10390d356b42961f3ed69a459bff7f"
+hash = "b524d18d0c89adbb9c20af7eb4197e5b5ffe070f5fd27b3e9d326478bb42ddf2"
 metafile = true
 
 [[files]]
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "5f0149bf9a2432a49eb61cf788fce081234ce32d71813485c680b5e24adb875e"
+hash = "437d19463ca3f2fa19573a74491b959517fd598353d363577e1f0fd8c233d4a1"
 metafile = true
 
 [[files]]
@@ -487,7 +487,3 @@ metafile = true
 file = "mods/yungs-bridges-fabric.pw.toml"
 hash = "f5e31a96c4fa606b9be31feb224160b35ee7fdfe425aaba792a6a108d706b985"
 metafile = true
-
-[[files]]
-file = "sorry-aurora/aurorasdecorations-1.0.0+1.18.jar"
-hash = "4b476068c69ed07e2a7650f5435308b3b7180788979e0cdd4a5a575fc44982a5"
